@@ -1,0 +1,15 @@
+D:\Kurt Carwana\AppsDev22\Arithmetic\obj\Debug\net8.0\Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurt Carwana\AppsDev22\Arithmetic\obj\Debug\net8.0\Arithmetic.AssemblyInfoInputs.cache
+D:\Kurt Carwana\AppsDev22\Arithmetic\obj\Debug\net8.0\Arithmetic.AssemblyInfo.cs
+D:\Kurt Carwana\AppsDev22\Arithmetic\obj\Debug\net8.0\Arithmetic.csproj.CoreCompileInputs.cache
+D:\Kurt Carwana\AppsDev22\Arithmetic\obj\Debug\net8.0\Arithmetic.sourcelink.json
+D:\Kurt Carwana\AppsDev22\Arithmetic\bin\Debug\net8.0\Arithmetic.exe
+D:\Kurt Carwana\AppsDev22\Arithmetic\bin\Debug\net8.0\Arithmetic.deps.json
+D:\Kurt Carwana\AppsDev22\Arithmetic\bin\Debug\net8.0\Arithmetic.runtimeconfig.json
+D:\Kurt Carwana\AppsDev22\Arithmetic\bin\Debug\net8.0\Arithmetic.dll
+D:\Kurt Carwana\AppsDev22\Arithmetic\bin\Debug\net8.0\Arithmetic.pdb
+D:\Kurt Carwana\AppsDev22\Arithmetic\obj\Debug\net8.0\Arithmetic.dll
+D:\Kurt Carwana\AppsDev22\Arithmetic\obj\Debug\net8.0\refint\Arithmetic.dll
+D:\Kurt Carwana\AppsDev22\Arithmetic\obj\Debug\net8.0\Arithmetic.pdb
+D:\Kurt Carwana\AppsDev22\Arithmetic\obj\Debug\net8.0\Arithmetic.genruntimeconfig.cache
+D:\Kurt Carwana\AppsDev22\Arithmetic\obj\Debug\net8.0\ref\Arithmetic.dll

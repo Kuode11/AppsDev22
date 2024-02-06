@@ -1,0 +1,15 @@
+D:\Kurt Carwana\AppsDev22\ArrayList\obj\Debug\net8.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kurt Carwana\AppsDev22\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfoInputs.cache
+D:\Kurt Carwana\AppsDev22\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfo.cs
+D:\Kurt Carwana\AppsDev22\ArrayList\obj\Debug\net8.0\ArrayList.csproj.CoreCompileInputs.cache
+D:\Kurt Carwana\AppsDev22\ArrayList\obj\Debug\net8.0\ArrayList.sourcelink.json
+D:\Kurt Carwana\AppsDev22\ArrayList\bin\Debug\net8.0\ArrayList.exe
+D:\Kurt Carwana\AppsDev22\ArrayList\bin\Debug\net8.0\ArrayList.deps.json
+D:\Kurt Carwana\AppsDev22\ArrayList\bin\Debug\net8.0\ArrayList.runtimeconfig.json
+D:\Kurt Carwana\AppsDev22\ArrayList\bin\Debug\net8.0\ArrayList.dll
+D:\Kurt Carwana\AppsDev22\ArrayList\bin\Debug\net8.0\ArrayList.pdb
+D:\Kurt Carwana\AppsDev22\ArrayList\obj\Debug\net8.0\ArrayList.dll
+D:\Kurt Carwana\AppsDev22\ArrayList\obj\Debug\net8.0\refint\ArrayList.dll
+D:\Kurt Carwana\AppsDev22\ArrayList\obj\Debug\net8.0\ArrayList.pdb
+D:\Kurt Carwana\AppsDev22\ArrayList\obj\Debug\net8.0\ArrayList.genruntimeconfig.cache
+D:\Kurt Carwana\AppsDev22\ArrayList\obj\Debug\net8.0\ref\ArrayList.dll

@@ -1,0 +1,14 @@
+C:\Kurt C#\Assignment Quiz1\Acti\Acti\bin\Debug\net8.0\Acti.exe
+C:\Kurt C#\Assignment Quiz1\Acti\Acti\bin\Debug\net8.0\Acti.deps.json
+C:\Kurt C#\Assignment Quiz1\Acti\Acti\bin\Debug\net8.0\Acti.runtimeconfig.json
+C:\Kurt C#\Assignment Quiz1\Acti\Acti\bin\Debug\net8.0\Acti.dll
+C:\Kurt C#\Assignment Quiz1\Acti\Acti\bin\Debug\net8.0\Acti.pdb
+C:\Kurt C#\Assignment Quiz1\Acti\Acti\obj\Debug\net8.0\Acti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kurt C#\Assignment Quiz1\Acti\Acti\obj\Debug\net8.0\Acti.AssemblyInfoInputs.cache
+C:\Kurt C#\Assignment Quiz1\Acti\Acti\obj\Debug\net8.0\Acti.AssemblyInfo.cs
+C:\Kurt C#\Assignment Quiz1\Acti\Acti\obj\Debug\net8.0\Acti.csproj.CoreCompileInputs.cache
+C:\Kurt C#\Assignment Quiz1\Acti\Acti\obj\Debug\net8.0\Acti.dll
+C:\Kurt C#\Assignment Quiz1\Acti\Acti\obj\Debug\net8.0\refint\Acti.dll
+C:\Kurt C#\Assignment Quiz1\Acti\Acti\obj\Debug\net8.0\Acti.pdb
+C:\Kurt C#\Assignment Quiz1\Acti\Acti\obj\Debug\net8.0\Acti.genruntimeconfig.cache
+C:\Kurt C#\Assignment Quiz1\Acti\Acti\obj\Debug\net8.0\ref\Acti.dll

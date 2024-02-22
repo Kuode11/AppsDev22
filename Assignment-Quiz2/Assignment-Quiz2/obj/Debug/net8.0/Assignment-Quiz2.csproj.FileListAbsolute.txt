@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Assignment-Quiz2\Assignment-Quiz2\bin\Debug\net8.0\Assignment-Quiz2.exe
+C:\Users\Admin\Desktop\Assignment-Quiz2\Assignment-Quiz2\bin\Debug\net8.0\Assignment-Quiz2.deps.json
+C:\Users\Admin\Desktop\Assignment-Quiz2\Assignment-Quiz2\bin\Debug\net8.0\Assignment-Quiz2.runtimeconfig.json
+C:\Users\Admin\Desktop\Assignment-Quiz2\Assignment-Quiz2\bin\Debug\net8.0\Assignment-Quiz2.dll
+C:\Users\Admin\Desktop\Assignment-Quiz2\Assignment-Quiz2\bin\Debug\net8.0\Assignment-Quiz2.pdb
+C:\Users\Admin\Desktop\Assignment-Quiz2\Assignment-Quiz2\obj\Debug\net8.0\Assignment-Quiz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Assignment-Quiz2\Assignment-Quiz2\obj\Debug\net8.0\Assignment-Quiz2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Assignment-Quiz2\Assignment-Quiz2\obj\Debug\net8.0\Assignment-Quiz2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Assignment-Quiz2\Assignment-Quiz2\obj\Debug\net8.0\Assignment-Quiz2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Assignment-Quiz2\Assignment-Quiz2\obj\Debug\net8.0\Assignment-Quiz2.dll
+C:\Users\Admin\Desktop\Assignment-Quiz2\Assignment-Quiz2\obj\Debug\net8.0\refint\Assignment-Quiz2.dll
+C:\Users\Admin\Desktop\Assignment-Quiz2\Assignment-Quiz2\obj\Debug\net8.0\Assignment-Quiz2.pdb
+C:\Users\Admin\Desktop\Assignment-Quiz2\Assignment-Quiz2\obj\Debug\net8.0\Assignment-Quiz2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Assignment-Quiz2\Assignment-Quiz2\obj\Debug\net8.0\ref\Assignment-Quiz2.dll
